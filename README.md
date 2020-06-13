@@ -1,3 +1,8 @@
+
+You can go and checkout this [**LIVE**](https://www.bhavya.xyz)
+
+Open [www.bhavya.xyz](http://www.bhavya.xyz) to view it in the browser.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
